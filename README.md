@@ -7,6 +7,8 @@ Email : admin@admin.com
 
 Password : admin123
 
+## Browser Link : http://localhost:8055 
+
 Directus is an open-source headless CMS and API toolkit that enables you to create custom database schemas, manage content, and build powerful applications. This desktop binary provides a standalone version of Directus that can be directly installed on your desktop computer.
 
 ## Features
