@@ -2,7 +2,7 @@
 
 This repository provides a one-click installation of Directus, allowing you to try Directus and use it offline privately and securely without the need for any additional dependencies.
 
-#Admin credentials : 
+# Admin credentials : 
 Email : admin@admin.com
 
 Password : admin123
