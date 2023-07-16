@@ -1,6 +1,8 @@
 # Directus Desktop App (Electron Wrapper)
 
 This repository provides a one-click installation of Directus, allowing you to try Directus and use it offline privately and securely without the need for any additional dependencies.
+[![Download Now](https://img.shields.io/badge/-Download%20Now!-%2322A6F2)](https://github.com/Yohita/directus-electron-app/releases) [![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/Yohita/directus-electron-app?label=Latest%20Release&style=social&x=1)]((https://github.com/Yohita/directus-electron-app/releases)) !
+
 
 ## Admin credentials : 
 Email : admin@admin.com
