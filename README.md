@@ -27,4 +27,4 @@ This project is based on the open-source Directus CMS.
 Learn more about Directus at their official website: https://directus.io
 
 ## Disclaimer
-Please note that this is a community project and is not officially supported by the Directus team. Use it at your own risk.
+Please note that this is a community project and is not officially supported by the Directus team.
