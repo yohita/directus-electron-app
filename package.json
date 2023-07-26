@@ -1,6 +1,6 @@
 {
   "name": "directus-electron-app",
-  "version": "1.0.0",
+  "version": "10.5.0",
   "description": "Directus Electron App",
   "main": "src/index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "license": "MIT",
   "dependencies": {  
-    "directus": "^10.4.3",
+    "directus": "^10.5.0",
     "dotenv": "^16.3.1",
     "electron-squirrel-startup": "^1.0.0",
     "sqlite3": "^5.1.6",
